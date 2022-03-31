@@ -13,3 +13,4 @@ with open("data.txt",'r') as data_file:
         total.append(int(row[1]))
 
 print("Average tempurature readings :", median(total))
+#Thanks for attending the workshop
